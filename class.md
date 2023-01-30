@@ -1,1 +1,3 @@
-Olga Yakush Version Control course
+Olga Yakush 
+Latvia 
+Version Control course
